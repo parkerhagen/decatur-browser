@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Decatur Browser",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Sam Lanning <sam@samlanning.com>",
 
   "description": "An experimental browser that runs in chrome.",
