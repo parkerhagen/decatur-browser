@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Decatur Browser",
   "version": "0.1.2",
   "author": "Sam Lanning <sam@samlanning.com>",
